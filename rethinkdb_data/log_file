@@ -1,0 +1,125 @@
+2015-11-05T08:44:36.174693076 0.166520s notice: Recursively removing directory /home/rainer/learn-react/game-engine/rethinkdb_data/tmp
+2015-11-05T08:44:36.244606951 0.236434s notice: Initializing directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-05T08:44:36.244722621 0.236549s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/rainer/learn-react/game-engine/rethinkdb_data' did not already exist or is empty.)
+2015-11-05T08:44:36.244761749 0.236589s notice: Running rethinkdb 2.1.5+2~0trusty (GCC 4.8.2)...
+2015-11-05T08:44:36.276923090 0.268815s notice: Running on Linux 3.13.0-66-generic x86_64
+2015-11-05T08:44:36.277063008 0.268888s notice: Loading data from directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-05T08:44:36.433029567 0.424857s info: Automatically using cache size of 100 MB
+2015-11-05T08:44:36.433297377 0.425123s warn: Cache size does not leave much memory for server and query overhead (available memory: 966 MB).
+2015-11-05T08:44:36.433305015 0.425130s warn: Cache size is very low and may impact performance.
+2015-11-05T08:44:36.438468567 0.430297s notice: Listening for intracluster connections on port 29015
+2015-11-05T08:44:36.459232538 0.451058s notice: Listening for client driver connections on port 28015
+2015-11-05T08:44:36.459525773 0.451353s notice: Listening for administrative HTTP connections on port 8080
+2015-11-05T08:44:36.459535768 0.451361s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-11-05T08:44:36.459541271 0.451367s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-05T08:44:36.459548247 0.451374s notice: Server ready, "rainer_VirtualBox_n4u" 1326add1-ee3c-455d-a074-5e64342208ce
+2015-11-05T08:45:37.411473604 61.403300s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-05T08:45:37.411675067 61.403501s notice: Shutting down client connections...
+2015-11-05T08:45:37.411761702 61.403587s notice: All client connections closed.
+2015-11-05T08:45:37.411784877 61.403610s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-05T08:45:37.445231203 61.437057s notice: Storage engine shut down.
+2015-11-05T10:22:29.657754199 0.259607s notice: Running rethinkdb 2.1.5+2~0trusty (GCC 4.8.2)...
+2015-11-05T10:22:29.832614943 0.434470s notice: Running on Linux 3.13.0-66-generic x86_64
+2015-11-05T10:22:29.832829648 0.434682s notice: Loading data from directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-05T10:22:30.111933726 0.713787s info: Automatically using cache size of 100 MB
+2015-11-05T10:22:30.112368322 0.714221s warn: Cache size does not leave much memory for server and query overhead (available memory: 882 MB).
+2015-11-05T10:22:30.112375635 0.714228s warn: Cache size is very low and may impact performance.
+2015-11-05T10:22:30.113728002 0.715580s notice: Listening for intracluster connections on port 29015
+2015-11-05T10:22:30.137713230 0.739568s notice: Listening for client driver connections on port 28015
+2015-11-05T10:22:30.138017925 0.739871s notice: Listening for administrative HTTP connections on port 8080
+2015-11-05T10:22:30.138024734 0.739877s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-11-05T10:22:30.138031916 0.739885s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-05T10:22:30.138038957 0.739892s notice: Server ready, "rainer_VirtualBox_n4u" 1326add1-ee3c-455d-a074-5e64342208ce
+2015-11-05T13:35:35.674769373 11586.276622s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-05T13:35:35.787604313 11586.389458s notice: Shutting down client connections...
+2015-11-05T13:35:35.915514220 11586.517367s notice: All client connections closed.
+2015-11-05T13:35:35.915522001 11586.517374s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-05T13:35:36.396065300 11586.997918s notice: Storage engine shut down.
+2015-11-05T13:35:41.425590237 0.088241s notice: Running rethinkdb 2.1.5+2~0trusty (GCC 4.8.2)...
+2015-11-05T13:35:41.649908105 0.312563s notice: Running on Linux 3.13.0-66-generic x86_64
+2015-11-05T13:35:41.657715677 0.320367s notice: Loading data from directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-05T13:35:41.817725192 0.480377s info: Automatically using cache size of 100 MB
+2015-11-05T13:35:41.819074178 0.481724s warn: Cache size does not leave much memory for server and query overhead (available memory: 636 MB).
+2015-11-05T13:35:41.819086101 0.481736s warn: Cache size is very low and may impact performance.
+2015-11-05T13:35:41.832880271 0.495532s notice: Listening for intracluster connections on port 29015
+2015-11-05T13:35:41.898564781 0.561216s notice: Listening for client driver connections on port 28015
+2015-11-05T13:35:41.898984425 0.561636s notice: Listening for administrative HTTP connections on port 8080
+2015-11-05T13:35:41.898991901 0.561642s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-11-05T13:35:41.898999272 0.561650s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-05T13:35:41.899005238 0.561656s notice: Server ready, "rainer_VirtualBox_n4u" 1326add1-ee3c-455d-a074-5e64342208ce
+2015-11-05T13:36:13.500081211 32.162731s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: Added replica on this server.
+2015-11-05T13:36:14.566847552 33.229498s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: Starting a new Raft election for term 1.
+2015-11-05T13:36:14.571515912 33.234168s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: This server is Raft leader for term 1. Latest log index is 0.
+2015-11-05T13:40:06.117464603 264.780115s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-05T13:40:06.117599514 264.780250s notice: Shutting down client connections...
+2015-11-05T13:40:06.117845481 264.780496s notice: All client connections closed.
+2015-11-05T13:40:06.117851616 264.780501s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-05T13:40:06.196839266 264.859489s notice: Storage engine shut down.
+2015-11-05T13:40:21.466964979 0.059788s notice: Running rethinkdb 2.1.5+2~0trusty (GCC 4.8.2)...
+2015-11-05T13:40:21.477185915 0.070012s notice: Running on Linux 3.13.0-66-generic x86_64
+2015-11-05T13:40:21.481612457 0.074435s notice: Loading data from directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-05T13:40:21.573255815 0.166080s info: Automatically using cache size of 100 MB
+2015-11-05T13:40:21.573469899 0.166292s warn: Cache size does not leave much memory for server and query overhead (available memory: 989 MB).
+2015-11-05T13:40:21.573477589 0.166300s warn: Cache size is very low and may impact performance.
+2015-11-05T13:40:21.579101098 0.171924s notice: Listening for intracluster connections on port 29015
+2015-11-05T13:40:21.626595869 0.219418s notice: Listening for client driver connections on port 28015
+2015-11-05T13:40:21.629896110 0.222722s notice: Listening for administrative HTTP connections on port 8080
+2015-11-05T13:40:21.629908404 0.222731s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-11-05T13:40:21.629915375 0.222738s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-05T13:40:21.629931615 0.222754s notice: Server ready, "rainer_VirtualBox_n4u" 1326add1-ee3c-455d-a074-5e64342208ce
+2015-11-05T13:40:22.882394783 1.475218s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: Starting a new Raft election for term 2.
+2015-11-05T13:40:22.932584894 1.525409s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: This server is Raft leader for term 2. Latest log index is 3.
+2015-11-05T13:46:47.684316411 386.277139s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: Added replica on this server.
+2015-11-05T13:46:49.496175163 388.088998s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: Starting a new Raft election for term 1.
+2015-11-05T13:46:49.594913962 388.187738s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: This server is Raft leader for term 1. Latest log index is 0.
+2015-11-06T13:23:44.676813366 18662.941348s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-06T13:23:44.858808617 18663.123340s notice: Shutting down client connections...
+2015-11-06T13:23:45.128688353 18663.393220s notice: All client connections closed.
+2015-11-06T13:23:45.128695445 18663.393226s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-06T13:23:48.973293787 18667.237825s notice: Storage engine shut down.
+2015-11-23T10:18:21.580745041 0.425782s notice: Running rethinkdb 2.2.1~0trusty (GCC 4.8.2)...
+2015-11-23T10:18:21.608207749 0.453243s notice: Running on Linux 3.13.0-68-generic x86_64
+2015-11-23T10:18:21.616435350 0.461472s notice: Loading data from directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-23T10:18:21.817370717 0.662405s notice: Rewriting cluster metadata for v2.2
+2015-11-23T10:18:22.123196359 0.968229s notice: Migrating file to serializer version 2.2.
+2015-11-23T10:18:22.201527614 1.046561s info: Automatically using cache size of 100 MB
+2015-11-23T10:18:22.201807879 1.046840s warn: Cache size does not leave much memory for server and query overhead (available memory: 1053 MB).
+2015-11-23T10:18:22.201822806 1.046855s warn: Cache size is very low and may impact performance.
+2015-11-23T10:18:22.203284656 1.048318s notice: Listening for intracluster connections on port 29015
+2015-11-23T10:18:22.372276343 1.217308s notice: Migrating file to serializer version 2.2.
+2015-11-23T10:18:22.556770393 1.401802s notice: Listening for client driver connections on port 28015
+2015-11-23T10:18:22.557602758 1.402635s notice: Listening for administrative HTTP connections on port 8080
+2015-11-23T10:18:22.557607425 1.402639s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-11-23T10:18:22.557611434 1.402643s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-23T10:18:22.557623645 1.402656s notice: Server ready, "rainer_VirtualBox_n4u" 1326add1-ee3c-455d-a074-5e64342208ce
+2015-11-23T10:18:22.558974940 1.404007s notice: Migrating file to serializer version 2.2.
+2015-11-23T10:18:23.622646057 2.467678s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: Starting a new Raft election for term 2.
+2015-11-23T10:18:23.652500245 2.497532s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: Starting a new Raft election for term 3.
+2015-11-23T10:18:23.661179815 2.506213s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: This server is Raft leader for term 2. Latest log index is 3.
+2015-11-23T10:18:23.723470239 2.568504s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: This server is Raft leader for term 3. Latest log index is 6.
+2015-11-23T10:19:15.405807600 54.250840s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-23T10:19:15.405944922 54.250977s notice: Shutting down client connections...
+2015-11-23T10:19:15.431648482 54.276681s notice: All client connections closed.
+2015-11-23T10:19:15.431756577 54.276789s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-23T10:19:15.481112102 54.326144s notice: Storage engine shut down.
+2015-11-23T10:19:18.786521073 0.096646s notice: Running rethinkdb 2.2.1~0trusty (GCC 4.8.2)...
+2015-11-23T10:19:18.791470452 0.101554s notice: Running on Linux 3.13.0-68-generic x86_64
+2015-11-23T10:19:18.791586308 0.101665s notice: Loading data from directory /home/rainer/learn-react/game-engine/rethinkdb_data
+2015-11-23T10:19:18.853903297 0.163983s info: Automatically using cache size of 100 MB
+2015-11-23T10:19:18.854371300 0.164449s warn: Cache size does not leave much memory for server and query overhead (available memory: 821 MB).
+2015-11-23T10:19:18.854380322 0.164457s warn: Cache size is very low and may impact performance.
+2015-11-23T10:19:18.863282295 0.173361s notice: Listening for intracluster connections on port 29015
+2015-11-23T10:19:18.929957183 0.240036s notice: Listening for client driver connections on port 28015
+2015-11-23T10:19:18.938252304 0.248330s notice: Listening for administrative HTTP connections on port 8080
+2015-11-23T10:19:18.938256306 0.248333s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-11-23T10:19:18.938259052 0.248336s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-23T10:19:18.938261878 0.248339s notice: Server ready, "rainer_VirtualBox_n4u" 1326add1-ee3c-455d-a074-5e64342208ce
+2015-11-23T10:19:20.333248804 1.643327s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: Starting a new Raft election for term 3.
+2015-11-23T10:19:20.393591868 1.703670s info: Table 0f19d6eb-f676-4682-ab94-af95e50bb184: This server is Raft leader for term 3. Latest log index is 7.
+2015-11-23T10:19:20.890897425 2.200975s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: Starting a new Raft election for term 4.
+2015-11-23T10:19:20.974619344 2.284698s info: Table 6bc957b0-64ce-4e00-95a8-b58635d1c6a2: This server is Raft leader for term 4. Latest log index is 9.
+2015-11-24T10:47:28.268158707 31366.628794s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-24T10:47:28.394825993 31366.755446s notice: Shutting down client connections...
+2015-11-24T10:47:28.459254091 31366.819874s notice: All client connections closed.
+2015-11-24T10:47:28.459260317 31366.819880s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-24T10:47:29.163716258 31367.524336s notice: Storage engine shut down.
